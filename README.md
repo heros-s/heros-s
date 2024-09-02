@@ -1,6 +1,6 @@
 # Boas-vindas ao meu perfil! Meu nome é Heros Dinão.
 
-👨‍💻 Cursando Bacharelado em Sistemas de Informação na Universidade Positivo.\
+👨‍💻 Cursando 2º semestre de Bacharelado em Sistemas de Informação na Universidade Positivo.\
 📖 Control Desk na PGMais.
 
 # Entre em contato
