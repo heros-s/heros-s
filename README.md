@@ -1,7 +1,7 @@
 # Boas-vindas ao meu perfil! Meu nome é Heros Dinão.
 
 👨‍💻 Cursando Bacharelado em Sistemas de Informação na Universidade Positivo.\
-📖 Assistente Administrativo de uma editora de livros.
+📖 Control Desk na PGMais.
 
 # Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heros-dinao/) &nbsp;
