@@ -1,7 +1,6 @@
 # Boas-vindas ao meu perfil! Meu nome é Heros Dinão.
-👨‍💻 Cursando 6º semestre de Bacharelado em Sistemas de Informação na Universidade Positivo.
----
-🖥️ Business Analytics na PGMais.
+- 👨‍💻 Cursando 6º semestre de Bacharelado em Sistemas de Informação na Universidade Positivo.
+- 🖥️ Business Analytics na PGMais.
 ---
 # Entre em contato
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heros-dinao/) &nbsp;
